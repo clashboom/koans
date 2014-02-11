@@ -1,0 +1,12 @@
+[submodule "pykoans"]
+	path = pykoans
+	url = git://github.com/gregmalcolm/python_koans.git
+[submodule "rubykoans"]
+	path = rubykoans
+	url = git://github.com/neo/ruby_koans
+[submodule "jskoans1"]
+	path = jskoans1
+	url = git://github.com/mrdavidlaing/javascript-koans
+[submodule "jskoans2"]
+	path = jskoans2
+	url = git://github.com/liammclennan/JavaScript-Koans
