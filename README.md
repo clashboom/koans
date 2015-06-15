@@ -1,2 +1,8 @@
 #Nothing to see here, move on.
-Really
+
+git submodule init
+git submodule update
+
+OR
+
+git clone --recursive 
